@@ -1,0 +1,34 @@
+body{
+  background-color: black;
+}
+
+.title {
+  color: greenyellow;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+.p {
+  color: greenyellow;
+  font-style: italic;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: center;
+}
+
+  .container {
+    display: flex;
+    color: white;
+    margin-left: 730px;
+    margin-top: 50px;
+  }
+
+  .number{
+    font-size: 100%
+  }
+
+  .subtrair{
+    width: 50px;
+  }
